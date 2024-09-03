@@ -4,7 +4,7 @@
 # S3-Extract the latest stories using basic string processing
 # S4-Find the start of the story title
 # S5-Extract the story title and link
-# S6-Convert the stories to JSON format
+# S6-Convert the stories to JSON format 
 
 
 

@@ -1,0 +1,28 @@
+[
+    {
+        "title": "hy Pope Francis Is Visiting Asi",
+        "link": "https://time.comope Francis Is Visiting Asi"
+    },
+    {
+        "title": "ttempted Prison Break in Congo: What to Kno",
+        "link": "https://time.compted Prison Break in Congo: What to Kno"
+    },
+    {
+        "title": "utin Visits Mongolia in Defiance of ICC Arrest Warran",
+        "link": "https://time.comVisits Mongolia in Defiance of ICC Arrest Warran"
+    },
+    {
+        "title": "eview: The Room Next Doo",
+        "link": "https://time.comw: The Room Next Doo"
+    },
+    {
+        "title": ".K. Suspends Some Arms Exports to Israel",
+        "link": "https://time.comSuspends Some Arms Exports to Israel"
+    },
+    {
+        "title": ". S. Seizes Plane Used by Venezuelan Presiden",
+        "link": "https://time.comSeizes Plane Used by Venezuelan Presiden"
+    }
+]
+
+OUTPUT URL:-http://localhost:8000/getTimeStories
